@@ -1,6 +1,6 @@
 import boto3
 
-# URL de tu cola (puedes copiarla desde la consola SQS)
+# URL de la cola
 queue_url = 'https://sqs.us-east-1.amazonaws.com/375257933091/insults-queue'
 
 # Crear cliente SQS
